@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+iframe {
+  height: 700px;
+  width: 100%;
+}
+
+#res_script {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+
+.Titre {
+  color: #00B8DE;
+}
+
+.Titre a {
+  color: #00B8DE;
+  font-family: 'Roboto', sans-serif;
+}
+
+dl.NoticeResAvecVignette,
+.NoticeRes {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #A1ABB9;
+}
+
+dl.NoticeResAvecVignette:not(:last-child),
+.NoticeRes:not(:last-child) {
+  margin-bottom: 20px;
+}
+/*# sourceMappingURL=style.css.map */
