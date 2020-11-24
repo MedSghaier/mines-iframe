@@ -154,9 +154,10 @@ width: 15%;
 	font-size: 1em;
 }
 .ValeurRes a{
-	color:#0d2340;
+	color:#00B8DE;
 	text-decoration:underline;
-	font-size: 1em;
+  font-size: 1.5em;
+  margin-bottom: 10px;
 }
 /* quand il y a affichage de vignette */
 .ValeurResAvecVignette {
