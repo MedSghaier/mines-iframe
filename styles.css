@@ -32,8 +32,8 @@ BODY {
 }
 
 .Titre a {
-  color: #00B8DE;
-  font-size: 1.6em;
+  color: #00B8DE !important;
+  font-size: 1.3em !important;
 }
 
 dl.NoticeResAvecVignette,
@@ -55,7 +55,7 @@ div.ZoneTitreResultat
 }
 .TitreResultats{
 	color:#00B8DE;
-	font-size: 1.6em;
+	font-size: 1.5em;
 	font-weight: bold;
 }
 .SousTitreResultats { 
@@ -154,9 +154,9 @@ width: 15%;
 	font-size: 1em;
 }
 .ValeurRes a{
-	color:#00B8DE;
+	color:#0d2340;
 	text-decoration:underline;
-  font-size: 1.5em;
+  font-size: 1em;
   margin-bottom: 10px;
 }
 /* quand il y a affichage de vignette */
